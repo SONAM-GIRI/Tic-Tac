@@ -26,6 +26,7 @@ README.md
 
 ▶️ HOW TO RUN
 Open index.html in any modern browser.
+
 🛠️ TECH STACK
 
 HTML – Structure
