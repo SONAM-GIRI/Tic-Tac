@@ -28,6 +28,6 @@ CSS – Styling
 JavaScript – Game logic
 
 👨‍💻 AUTHOR
-Sonam Giri
-⭐ SUPPORT
-If you like this project, give it a ⭐ on GitHub!
+Sonam Giri 
+
+⭐ SUPPORT If you like this project, give it a ⭐ on GitHub!
