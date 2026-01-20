@@ -15,9 +15,13 @@ A simple and responsive Tic Tac Toe game built using vanilla web technologies.
 ⚡ Lightweight & fast
 
 📁 PROJECT STRUCTURE
+
 index.html
+
 style.css
+
 script.js
+
 README.md
 
 ▶️ HOW TO RUN
