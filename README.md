@@ -1,41 +1,33 @@
-❌⭕ Tic Tac Toe
-
+❌⭕ TIC TAC TOE
 HTML • CSS • JavaScript
+A simple and responsive Tic Tac Toe game built using vanilla web technologies.
+🚀 FEATURES
 
-A simple and responsive Tic Tac Toe game built using vanilla HTML, CSS, and JavaScript.
+✅ Two-player mode (X vs O)
 
-🚀 Features
+🧠 Win & draw detection
 
-Two-player mode (X vs O)
+🔄 Restart game
 
-Win & draw detection
+⚡ Lightweight & fast
 
-Restart game
+📁 PROJECT STRUCTURE
+index.html
+style.css
+script.js
+README.md
 
-Lightweight & fast
+▶️ HOW TO RUN
+Open index.html in any modern browser.
+🛠️ TECH STACK
 
-📁 Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+HTML – Structure
 
-▶️ Run
+CSS – Styling
 
-Open index.html in any browser.
+JavaScript – Game logic
 
-🛠️ Tech Stack
-
-HTML
-
-CSS
-
-JavaScript
-
-👨‍💻 Author
-
+👨‍💻 AUTHOR
 Sonam Giri
-
-⭐ Support
-
-Star ⭐ the repo if you like it!
+⭐ SUPPORT
+If you like this project, give it a ⭐ on GitHub!
