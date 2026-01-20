@@ -1,6 +1,9 @@
 ❌⭕ TIC TAC TOE
+
 HTML • CSS • JavaScript
+
 A simple and responsive Tic Tac Toe game built using vanilla web technologies.
+
 🚀 FEATURES
 
 ✅ Two-player mode (X vs O)
